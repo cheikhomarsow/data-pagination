@@ -73,5 +73,3 @@ use in your templates to add pagination in your view like below
 *   info
 
     **[boolean]** If set to false, information about the table will not be displayed. Default is true.
-
-For making the styling work fine, you should included bootstrap to your project.
