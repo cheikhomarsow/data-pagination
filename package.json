@@ -1,0 +1,13 @@
+{
+  "name": "data-pagination",
+  "version": "0.0.1",
+  "description": "Angular library that provides pagination. Navigating through the pagination triggers an event that will load the current page",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^13.0.0",
+    "@angular/core": "^13.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
